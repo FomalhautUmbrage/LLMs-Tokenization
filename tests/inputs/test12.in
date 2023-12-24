@@ -1,0 +1,6 @@
+M 1
+PRINT 0
+INSERT steam
+INSERT engine
+PRINT 0
+EXIT

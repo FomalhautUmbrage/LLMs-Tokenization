@@ -1,0 +1,8 @@
+M 5
+INSERT goat
+INSERT donkey
+INSERT pig
+INSERT cow
+RETRIEVE 1
+PRINT 0
+EXIT

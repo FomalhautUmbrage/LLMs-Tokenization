@@ -1,0 +1,3 @@
+M 15
+READ ../../tests/files/badFile.txt
+EXIT

@@ -1,0 +1,12 @@
+M 2
+INSERT Mike
+INSERT is
+INSERT super
+INSERT duper
+INSERT go
+INSERT team
+STOK mike Is Super Duper gO tEam _DONE_
+TOKS 1 2 3 4 5 6 7 8 9 20 -1
+PRINT 0
+PRINT 1
+EXIT

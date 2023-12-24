@@ -1,0 +1,6 @@
+M 6
+INSERT goat
+INSERT goat
+INSERT goat
+TOKENIZE goat
+EXIT

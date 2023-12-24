@@ -1,0 +1,7 @@
+M 1
+INSERT computer
+INSERT cup
+INSERT monitor
+INSERT desk
+PRINT 0
+EXIT
